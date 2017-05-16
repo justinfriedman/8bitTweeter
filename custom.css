@@ -1,0 +1,71 @@
+/*font-family: 'Press Start 2P', cursive;
+font-family: 'Cutive Mono', monospace;
+font-family: 'Codystar', cursive;*/
+
+#title {
+  text-align: center;
+
+}
+
+.machine {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 2%;
+
+}
+
+
+.lcd {
+  /*b
+
+
+  width: 60%;*/
+  /*border-style: inset;
+  height: 10%;
+  width: 800px;
+  background-color: #42af2f;
+  color: #050505;
+  font-family: 'Cutive Mono', monospace;
+  margin: auto;*/
+  text-align: center;
+  background-color: #42af2f;
+}
+
+.controls {
+  margin: auto;
+  width: 80%;
+  border-style: solid;
+}
+.toggle_switch_svg-o {
+  width: 80%;
+  height: 80%;
+}
+
+.toggle-label {
+  font-family: 'Cutive Mono', monospace;
+  text-align: center;
+}
+
+.button-box {
+  margin: auto;
+  width: 50%;
+  border-style: solid;
+}
+.three-button-table {
+
+}
+
+.toggle_button_svg {
+  width: 80%;
+  height: 80%;
+
+}
+
+.ref-tables {
+  margin: auto;
+  margin-top: 2em;
+}
+
+#acsii-command-ref  td {
+  border-style: solid;
+}
