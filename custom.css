@@ -50,14 +50,18 @@ font-family: 'Codystar', cursive;*/
   margin: auto;
   width: 50%;
   border-style: solid;
+  padding-left:  2em;
+  padding-right: 2em;
 }
 .three-button-table {
 
 }
 
 .toggle_button_svg {
+  margin: auto;
   width: 80%;
   height: 80%;
+
 
 }
 
